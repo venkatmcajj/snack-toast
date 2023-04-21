@@ -1,5 +1,5 @@
 {
-  "name": "snack-toast",
+  "name": "react-snack-toast",
   "version": "1.0.0",
   "description": "Snack-toast allows you to add notifications to your app with ease. No more nonsense!",
   "main": "./dist/cjs/index.js",
@@ -31,7 +31,7 @@
     "message",
     "typescript"
   ],
-  "author": "Venkatesh - M.C.A",
+  "author": "Venkatesh",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/venkatmcajj/snack-toast/issues"
