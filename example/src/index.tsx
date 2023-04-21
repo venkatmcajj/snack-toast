@@ -8,7 +8,7 @@ const root = ReactDOM.createRoot(
 root.render(
   <React.StrictMode>
     <div>
-      <h2>Default counter</h2>
+      <h2>Default counter </h2>
       <MyCounter />
     </div>
     <hr />
